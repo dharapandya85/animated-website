@@ -48,4 +48,19 @@ To view the project, simply open the `src/index.html` file in any modern web bro
 
 ## License
 
+## Create animations for the following images
+
+![Screenshot (136)](https://github.com/user-attachments/assets/f068142c-4163-43d4-92f6-e50f8becbb11)
+
+
+ ![Screenshot (137)](https://github.com/user-attachments/assets/1877ab9e-7c7c-4016-8313-645c75e534e9)
+
+ ![Screenshot (138)](https://github.com/user-attachments/assets/d441177d-3119-4283-8f37-53865cc978fa)
+
+
+
+
+
+
+
 This project is open-source and available for modification and distribution. Please refer to the LICENSE file for more details.
